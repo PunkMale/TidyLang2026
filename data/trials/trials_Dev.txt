@@ -1,0 +1,5 @@
+0	HSB_id_0029	id014001/mk/mk_50851563.wav
+1	AB_id_0061	id011063/ab/ab_40554482.wav
+0	MK_id_0041	id010652/en/en_44090917.wav
+0	MK_id_0027	id011063/ab/ab_40788424.wav
+1	HSB_id_0061	id013619/hsb/hsb_31604972.wav
